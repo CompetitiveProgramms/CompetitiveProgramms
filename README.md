@@ -1,4 +1,4 @@
-- 👋 H
+
 - 👀 I’m interested in . Competitive programming..
 - 🌱 I’m currently learning .c++ DSA ..
 - 💞️ I
